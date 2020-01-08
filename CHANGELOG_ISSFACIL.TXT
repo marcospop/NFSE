@@ -1,0 +1,40 @@
+HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
+
+
+
+Iss Fácil 4.7.0.3, 08 de Janeiro de 2020
+
+Foram realizadas as seguintes modificações na Emissão de NFSe-A no Ambiente Fiscal:
+ - Alterada a legenda Contribuinte para CNPJ/CPF Prestador
+ - Removida a opção Salvar Tomador
+ - Removida a necessidade de inserir o CNAE
+ - Permitida a edição dos valores de retenção dos impostos federais;
+ - Exibição do SIMEI na coluna do Enquadramento - Pesquisa da Visita Fiscal;
+ - Corrigidos outros Pequenos Bugs;  
+
+Iss Fácil 4.7.0.2, 07 de Janeiro de 2020
+
+ - Correção da visualização do campo Outras Retenções na Visualização da NFSe-A;
+ - Adicionada pesquisa por MEI na Visita Fiscal;
+ - Mudança do Menu Visualizar NFSe-A para o Atendimento no Ambiente Fiscal;
+ - Corrigidos outros Pequenos Bugs; 
+
+
+Iss Fácil 4.7.0.1, 07 de Janeiro de 2020
+ 
+
+ - Atualizada a  Classificação (Tipo) do Contribuinte na Visita Fiscal;
+ - Adicionada à Visita Fiscal a busca pelo enquadramento (SIMPLES, ISS HOMOLOGADO) e inscrição municipal
+ - Refeito o Wizard para Emissão de NFSe-A de acordo com o Padrão ABRASF;
+ - Adicionados os campos Desconto Condicionado, Desconto Incondicionado, Acréscimos e Outras Deduções à NFSe-A;
+ - Disponibilizada a Emissão de NFSe-A diretamente do Ambiente de Fiscalização através do Menu Atendimento / Nota Fiscal Avulsa;
+ - Número da Nota aparecia cortado na Tela de Pesquisar NFSe para Correção;
+ - Adicionada coluna para cancelamento da NFSe diretamente na Tela de Pesquisar NFSe para Correção;
+ - Alterada A nomenclatura de NF de Outros Municipios, para Escriturar NFS’e de outros municípios;
+ - Corrigida a formatação do Número da NFSe no Relatório de Serviços Prestados / Tomados;
+ - Corrigida a formatação do Número da NFSe na Grade de Consulta do Relatório de Serviços Prestados / Tomados;
+ - Baixa automática ao exporta NFSe para XML;
+ - Exportação do XML por Competência / Período de Emissão;
+ - Adicionada Coluna Exportar XML na Pesquisa da NFSE;
+ - Distritos removidos da Lista de Municípios; 
+ 
