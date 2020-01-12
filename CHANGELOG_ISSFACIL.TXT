@@ -1,6 +1,7 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
 Iss Fácil 4.7.0.5, 12 de Janeiro de 2020
+
 - Adição para pesquisa da Nota Fiscal Avulsa dos Campos CPF/CNPJ e Nome / Razão Social do Emissor;
 - Ordenação por Exercício / Parcela dos Débitos na Emissão de Guias / NFSE;
 - Ajuste do Número da NFSe nas Telas de Detalhe / Composição da Guia;
