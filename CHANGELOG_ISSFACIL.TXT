@@ -1,5 +1,16 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
+Iss Fácil 4.7.0.5, 12 de Janeiro de 2020
+- Adição para pesquisa da Nota Fiscal Avulsa dos Campos CPF/CNPJ e Nome / Razão Social do Emissor;
+- Ordenação por Exercício / Parcela dos Débitos na Emissão de Guias / NFSE;
+- Ajuste do Número da NFSe nas Telas de Detalhe / Composição da Guia;
+- Correção de Bug ao Exibir Relatório de Serviços Tomados / NFSe;
+- Correção de Bug na Importação dos Arquivos de Selos dos Cartórios quando os mesmos eram em codificação ISO;
+- Correção do Cálculo dos Emolumentos dos Cartórios;
+- Correção de BUG na Validação do Arquivo PGCC da DESIF, a validação nunca era concluída;
+- Correção de BUG ao Inserir o Lançamento do ISS Retido da NFSe, o lançamento estava sendo incorretamente lançado para o próprio emissor;
+
+
 
 
 Iss Fácil 4.7.0.3, 08 de Janeiro de 2020
