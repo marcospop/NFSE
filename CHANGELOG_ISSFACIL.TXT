@@ -1,5 +1,17 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
+Iss Fácil 4.7.0.7, 15 de Janeiro de 2020
+
+ - Inclusão do Campo Outras Retenções no Assistente da NFSe;
+ - Dedução do Desconto Condicionado do Valor Líquido;
+ - Correção de Regras para Emissão de NFSe de Empresas Isentas / Imunes, as mesmas SEMPRE serão forçadas com Recolhimento do Iss Prório, mesmo que o tomador seja Substituto Tributário;
+ - Correção de Regras para Emissão de NFSe para Tomadores Substitutos Tributários: Se a Empresa estiver enquadrada no Simples Nacional, a mesma pode optar pelo tipo do recolhimento (Prório/Retido);
+ - Correção do Valor da Tag (<IssRetido> na Exportação do XML da NFSe;
+ - Correção da Exibição do Percentual de Dedução no Passo 3 do Assistente de Emissão da NFSe;
+ 
+
+
+
 Iss Fácil 4.7.0.5, 12 de Janeiro de 2020
 
 - Adição para pesquisa da Nota Fiscal Avulsa dos Campos CPF/CNPJ e Nome / Razão Social do Emissor;
