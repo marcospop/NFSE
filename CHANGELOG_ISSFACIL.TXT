@@ -1,5 +1,15 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
+Iss Fácil 4.7.1.0, 21 de Janeiro de 2020
+- Implementação de Novas Telas para o Módulo de Cartórios:
+   - Redesign da Tela de Lançamento de Atos Praticados;
+   - Implementação da Tela de DAPS Registradas;
+   - Alterações na Impressão da DAP;
+   - Correções na Rotina de Importação de Arquivos de Selos - MG;
+   
+
+
+
 Iss Fácil 4.7.0.7, 15 de Janeiro de 2020
 
  - Inclusão do Campo Outras Retenções no Assistente da NFSe;
