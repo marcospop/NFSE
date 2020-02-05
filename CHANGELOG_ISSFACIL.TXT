@@ -1,5 +1,30 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
+
+
+Iss Fácil 4.7.4.2, 05 de Fevereiro de 2020
+
+
+   - Refazimento de todo o múdulo de NFSe para o Padrão ABRASF;
+	- Correção de Bug de exibição incorreta da Natureza da Operação e do Tipo de Recolhimento;
+	- Correção de Relatórios de Eventos;
+	- Correção de Relatório de Entrega de Declarações de Cartórios;
+	- Correção de Bug ao alterar email do Tomador Externo;
+	- Cancelar Guias ao Cancelar parcela Trigger;
+	- Gerar creditos para cancelamento de nota normal;
+	- Correção do formato da aliquota na NFSe;
+	- Correção do Label do Valor do ISS na NFSe;
+	- Correcao da Pesquisa da Consulta de Guias por Situação;
+	- Correção dos Atalhos da Area de Trabalho do Tributário;
+	- Implementada Rotina de Restauração da Senha do Sistema Versa (MD5 e BCrypt);
+   - Mostrar Informacoes de Endereço da Entidade na Barra de Status;
+	- Correção da Data do Relatorio de Nota Quitada sendo exibida a data atual;
+	- Correção de Bug na Emissão da Nota Fiscal Avulsa ao passar para o Passo 3, criticando o tipo do recolhimento
+	- Diversar adaptações para a nova estrutura de multiplos tomcats em um único servidor;
+
+
+
+
 Iss Fácil 4.7.1.0, 21 de Janeiro de 2020
 
 - Implementação de Novas Telas para o Módulo de Cartórios:
