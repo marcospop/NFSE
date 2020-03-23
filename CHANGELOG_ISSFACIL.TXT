@@ -1,7 +1,34 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
+Iss Fácil 4.7.4.7, 23 de Março de 2020
+
+
+
+BUGS CORRIGIDOS:
+	- O Município de Prestação do Serviço Sempre era salvo como o Município do Tomador, mesmo que alterado manualmente;
+	- Mensagem de Erro ao visualizar Serviço Prestado fora do Município - Contribuinte Externo;
+	- Os Débitos de RPA não eram exibidos na Emissão de Guias;
+	- Erro ao Processar os arquivos da DESIF quando os mesmos possuiam espaço ou caracteres especiais em seu nome;
+	- Erro ao carregar a tela de Consultar Declarações de Serviços Tomados pela primeira vez, as notas não eram exibidas;
+	- Os Menus da NFSE eram exibidos em alguns casos para os contribuintes mesmo que eles estivessem enquadrados como 			EXTERNOS/TOMADORES;
+	- O Campo Valor Atualizado na Emissão de Taxas Diversas era multiplicado x 100 quando o sistema estava instalado em um servidor 	com linguagem diferente de BR;
+	- Os Serviços Tomados fora do Município não calculavam o ISS caso a opção [ISS Retido] não estivesse marcada;
+
+ATUALIZAÇÕES:
+	Adicionada Coluna [Valor da Nota] na Consulta da NFSe-A - Ambiente do Contribuinte;
+	Adicionado o Campo [% de Dedução] à Guia de Parâmetros ISS FÁCIL;
+	Refeito o Módulo de Processamento de Arquivos de Baixas Bancárias para que sejam contemplados multiplos convênios;
+	Criado um convênio especial para alocar todos os pagamentos do SIMPLES NACIONAL;
+	Corrigido o Relatório de Pagamento de Títulos para que não mostre os Pagamentos do Simples Nacional;
+	Disponibilizado o Relatório de Baixa por Lotes;
+	DIsponibilizada Nova Estrutura de Visualização dos Relatórios Principais, em Forma de TreeView / Árvore;
+	
+	
+
 
 Iss Fácil 4.7.4.5, 01 de Março de 2020
+
+
 - Disponibilização do Módulo de Livro Fiscal (Serviços Prestados, Tomados, Por Competência e Exercício);
 - Disponibilização dos Parâmetros de Configuração do ISS Fácil / Livro Fiscal 
 	- Fechamento Automático;
@@ -18,8 +45,17 @@ Iss Fácil 4.7.4.5, 01 de Março de 2020
 - Disponibilidade do Módulo de Consultas dos Livros Fiscais no Ambiente de Fiscalização;
 - Reestruturação de Todo o Módulo de NFSE para que as declarações dos serviços tomados / retidos pelas empresas do municípios sejam realizados através de ACEITE / REJEIÇÃO a fim de homologar os Livros Fiscais;
 
+- Reestruturação do Menu [Serviços Tomados] no Ambiente do Contribuinte;
+- Disponibilidade do Módulo de Emissão / Impressão / Consulta de RPA'S;
+- Disponibilidade do Módulo de Escrituração das Notas Fiscais do Município (Aceite / Rejeição);
+- Disponibilidade do Módulo de Consulta de Declarações de Serviços Tomados;
+- Disponibilidade da Integração com o Sistema Memory (Homologação);
+- Disponibilidade da Integração com o Sistema AGP (Leopoldina - Homologação);
+- Disponibilidade da Integração com o Sistema ASI (Barão de Cocais - Homologação);
 
+- Reestruturação do Portal Principal, com o alteraração do Layout para integração com o Login do Sistema;
 
+- Pequenos outros Bugs corrigidos;
 
 
 
@@ -56,7 +92,6 @@ Iss Fácil 4.7.1.0, 21 de Janeiro de 2020
    
 
 
-
 Iss Fácil 4.7.0.7, 15 de Janeiro de 2020
 
  - Inclusão do Campo Outras Retenções no Assistente da NFSe;
@@ -66,7 +101,6 @@ Iss Fácil 4.7.0.7, 15 de Janeiro de 2020
  - Correção do Valor da Tag (<IssRetido> na Exportação do XML da NFSe;
  - Correção da Exibição do Percentual de Dedução no Passo 3 do Assistente de Emissão da NFSe;
  
-
 
 
 Iss Fácil 4.7.0.5, 12 de Janeiro de 2020
