@@ -13,6 +13,7 @@ BUGS CORRIGIDOS:
 	- Os Menus da NFSE eram exibidos em alguns casos para os contribuintes mesmo que eles estivessem enquadrados como 			EXTERNOS/TOMADORES;
 	- O Campo Valor Atualizado na Emissão de Taxas Diversas era multiplicado x 100 quando o sistema estava instalado em um servidor 	com linguagem diferente de BR;
 	- Os Serviços Tomados fora do Município não calculavam o ISS caso a opção [ISS Retido] não estivesse marcada;
+	- As Notas do Simples Nacional Não eram disponibilizadas para Aceite;
 
 ATUALIZAÇÕES:
 	Adicionada Coluna [Valor da Nota] na Consulta da NFSe-A - Ambiente do Contribuinte;
