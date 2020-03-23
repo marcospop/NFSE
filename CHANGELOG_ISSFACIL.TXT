@@ -1,6 +1,27 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
 
+Iss Fácil 4.7.4.5, 01 de Março de 2020
+- Disponibilização do Módulo de Livro Fiscal (Serviços Prestados, Tomados, Por Competência e Exercício);
+- Disponibilização dos Parâmetros de Configuração do ISS Fácil / Livro Fiscal 
+	- Fechamento Automático;
+	- Dias para Reabertura;
+	- Liberação para Reabertura;
+	- Comportamento dos Serviços Tomados;
+	- Configuração de Emissão de NFSE para Cartórios;
+	- Liberação da Edição do Campo de Deduções;
+	- Configuração do dia de Vencimento do ISS;
+	- Configuração do Perído para Cancelamento e Substituição de NFSE;
+
+- Disponibilidade do Módulo de Gerenciamento de Cancelamento / Substituição de NFSE no Ambiente de Fiscalização;
+- Disponibilidade do Módulo de Gerenciamento de Reabertura dos Livros Fiscais no Ambiente de Fiscalização;
+- Disponibilidade do Módulo de Consultas dos Livros Fiscais no Ambiente de Fiscalização;
+- Reestruturação de Todo o Módulo de NFSE para que as declarações dos serviços tomados / retidos pelas empresas do municípios sejam realizados através de ACEITE / REJEIÇÃO a fim de homologar os Livros Fiscais;
+
+
+
+
+
 
 Iss Fácil 4.7.4.2, 05 de Fevereiro de 2020
 
