@@ -10,6 +10,9 @@ BUGS CORRIGIDOS:
 	- O Município do Prestador não era exibido na Pre-Visualização da NFSE;
 	- O Campo [Valor Pago] na Baixa Manual de Guias era exibido com o Separador Decimal Incorreto;
 	- Refeita a Pesquisa de Notas Fiscas no Ambiente de Fiscalização para não mais pesquisar as Notas automaticamente, evitando assim o travamento em municípios com grandes quantidades de Notas Emitidas;
+	- Os valores das guias eram calculados incorretamente no Ambiente do Contribuinte ao selecionar receitas diferentes;
+	- Criada lista de exclusão para os órgãos do município nao serem proibidos de emitir guias mesmo com retenções pendentes;
+	
 
 
 
