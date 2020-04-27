@@ -1,5 +1,29 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
+
+Iss Fácil 4.7.4.10, 28 de Abril de 2020
+
+
+
+BUGS CORRIGIDOS:
+	-Correção na emissão de Notas Avulsas  dos Autônomos no Ambiente da NFSE, o imposto estava sendo calculado indevidamente;
+	- Correção de mensagem de erro ao se tentar reabrir o Livro Fiscal: "Not a valid integer";
+	- Correção do Extrato de Débitos no Portal do Contribuinte, os valores eram formatados incorretamente quando o sistema está hospedado em servidores com a linguagem do s.o. em inglês;
+	- Os lançamentos não eram atualizados ao cancelar as notas via solicitação ao fiscal, gerando débitos incorretos;
+	- Correção da formataçao dos valores da Tela de Baixa Manual de Guias;
+	- Correção das dimensões da logomarca e posicionamento do campo "Esqueci Minha Senha" na Tela de Login da Fiscalização;
+	- Correção da formatação das Datas das Guias e Relatórios - Ambiente do Contribuinte;
+	- Os Impostos Federais nas emissões de NFSE e NFSe-A não eram recalculados após marcados e o valor do serviço alterado.
+        -  Correções nas Rotinas de Integração da Memory e ASI;
+	
+Atualizações:
+	- Adicionado o Campo [Competência] para Pesquisa da NFSe em todos os ambientes;
+	- Adicionada Justificativa para Cancelamento de NFSe-A;
+	- Adicionado Rotina/Relatório para gerenciamento de Guias Cancelada e posteriormente quitadas;
+
+
+
+
 Iss Fácil 4.7.4.8, 30 de Março de 2020
 
 
