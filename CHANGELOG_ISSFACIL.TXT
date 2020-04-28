@@ -6,7 +6,7 @@ Iss Fácil 4.7.4.10, 27 de Abril de 2020
 
 
 BUGS CORRIGIDOS:
-	-Correção na emissão de Notas Avulsas  dos Autônomos no Ambiente da NFSE, o imposto estava sendo calculado indevidamente;
+	- Correção na emissão de Notas Avulsas  dos Autônomos no Ambiente da NFSE, o imposto estava sendo calculado indevidamente;
 	- Correção de mensagem de erro ao se tentar reabrir o Livro Fiscal: "Not a valid integer";
 	- Correção do Extrato de Débitos no Portal do Contribuinte, os valores eram formatados incorretamente quando o sistema está hospedado em servidores com a linguagem do s.o. em inglês;
 	- Os lançamentos não eram atualizados ao cancelar as notas via solicitação ao fiscal, gerando débitos incorretos;
