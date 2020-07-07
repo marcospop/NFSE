@@ -28,6 +28,7 @@ BUGS CORRIGIDOS:
       - Aumentada a Quantidde Máxima de Registros na Listagem da Consulta de Serviços Tomados;
       - TRIBUTÁRIO - Os atalhos criados não eram carregados;
       - NFSe-A - Correção da Validação por QRCODE;
+      - SIMPLES NACIONAL - Correção da rotina de Importação de Guias - Apenas as guias com perfil de ISS para o município são importadas para as empresas de outros municípios;
      
   MELHORIAS:
       - EMISSÃO DE NFSE - Removida a obrigatoriedade do Fone do Tomador;
