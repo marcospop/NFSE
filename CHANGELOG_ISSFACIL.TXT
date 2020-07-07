@@ -20,8 +20,30 @@ BUGS CORRIGIDOS:
       - EMISSÃO DE NFSE - Observações da Nota não são visualizadas;
       - EMISSÃO DE NFSE - CheckBox de Substituição de NFSE estava com a descrição incorreta;
       - EMISSÃO DE NFSE - Não Exibir Nota se substituição marcada e nenhuma nota estiver selecionada;
+      - EMISSÃO DE NFSE - Aliquota zerava ao substituir a NFSE;
+      - CORREÇÃO DE NFSE - Número da Nota era exibido com formatação incorreta;
+      - LIVRO FISCAL - Tarja de Cancelamento não era exibida ao visualizar NFSE a partir do livro;
+      - RPA - Correção de Rotinas de Lançamentos;
+      - DESIF - Correção da validação do Tipo de Dependência do Demonstrativo Contábil;
       - Aumentada a Quantidde Máxima de Registros na Listagem da Consulta de Serviços Tomados;
-      - 
+      - TRIBUTÁRIO - Os atalhos criados não eram carregados;
+      - NFSe-A - Correção da Validação por QRCODE;
+     
+  MELHORIAS:
+      - EMISSÃO DE NFSE - Removida a obrigatoriedade do Fone do Tomador;
+      - EMISSÃO DE NFSE - Exibir a Competência Atual ao copiar NFSE;
+      - CONSULTAR NFSE - Ordenação padrão da listagem em ordem decrescente de numeração;
+      - CONSULTAR NFSE - Removidos CNPJ e Razão Social do Prestador da Pesquisa;
+      - CONTRIBUINTE EXTERNO - SERVIÇOS TOMADOS - Mostrar o Prestador ao invés do Tomador na pesquisa;
+      - CONTRIBUINTE EXTERNO - O Campo CEP a partir de agora não limpa os demais campos do endereço caso não exista;
+      - CONTRIBUINTE EXTERNO - As pesquisas nas Listas Dinâmicas não eram auto  - incrementais;
+      - LIVRO FISCAL - Emissão de Guias a partir do Livro;
+      - LIVRO FISCAL - Recálculo Automático dos valores do livro ao selecionar competência;
+      - Diversos Relatórios adicionados;
+      - Disponibilização do Módulo de Transporte Público;
+      - Disponibilização do Módulo de Correção de NFSe-A;
+      
+      
 
 
 
