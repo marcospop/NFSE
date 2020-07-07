@@ -1,6 +1,15 @@
 HISTÓRICO DE ALTERAÇÕES NO SISTEMA ISS FÁCIL
 
 
+Iss Fácil 4.7.4.25, 01 de Julho de 2020
+
+
+BUGS CORRIGIDOS:
+
+
+
+
+
 Iss Fácil 4.7.4.10, 27 de Abril de 2020
 
 
