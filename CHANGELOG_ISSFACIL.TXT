@@ -5,8 +5,23 @@ Iss Fácil 4.7.4.25, 01 de Julho de 2020
 
 
 BUGS CORRIGIDOS:
-
-
+      - Erro ao solicitar a reabertura dos Livros Fiscais - Exibia a Mensagem "NOT A VALID INTEGER";
+      - DESIF - Termo de Entrega - formato da data incorreto;
+      - Correção do Formato das datas de todas as Guias;
+      - Correção do Formato das datas de todos os Relatórios;
+      - ITBI - O Valor do ITBI estava sendo exibido ao invés do Valor de Venda;
+      - LOGIN - Correção das Dimensões do Brasão do Município;
+      - DEISS - Menu SIMEI era exibido para usuários da DESIF;
+      - CONTA FISCAL - Correção dos Valores ao somar Parcela Única do IPTU;
+      - AUTENTICAÇÃO DE NFSe-A - A Nota não estava sendo validada corretamente;
+      - GUIAS - Cancelar guias automaticamente após o lançamento associado ser compensado;
+      - CONTRIBUINTE EXTERNO - SERVIÇOS TOMADOS - Caso o ISS não fosse retido, o Assistente não passava para o último passo;
+      - EMISSÃO DE NFSE - Se Empresa Estiver como Desativada, considerar a mesma como Tomador Externo;
+      - EMISSÃO DE NFSE - Observações da Nota não são visualizadas;
+      - EMISSÃO DE NFSE - CheckBox de Substituição de NFSE estava com a descrição incorreta;
+      - EMISSÃO DE NFSE - Não Exibir Nota se substituição marcada e nenhuma nota estiver selecionada;
+      - Aumentada a Quantidde Máxima de Registros na Listagem da Consulta de Serviços Tomados;
+      - 
 
 
 
